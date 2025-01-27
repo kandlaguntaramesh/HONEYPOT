@@ -1,5 +1,5 @@
 #  Building a SOC with Honeypots and Live Traffic Monitoring Using Microsoft Azure Sentinel Attack Map
-![WhatsApp Image 2025-01-26 at 4 15 08 PM](https://github.com/user-attachments/assets/4866e6e5-e14f-43b7-b89e-e88eeeeae6b6)
+![Main](https://github.com/user-attachments/assets/ff1ecd9d-584a-46aa-9865-31da5276fe21)
 
 
 ## Introduction
